@@ -1,4 +1,4 @@
-# Pokémon APP
+# Pokémon APP.
 
 Este projeto foi confeccionado como um desafio/teste para obter uma certificação junto ao freeCodeCamp.
 Temos os arquivos de HTML, CSS e nosso JavaScript, onde utilizamos a API PokeAPI para buscar informações sobre os Pokémons.
